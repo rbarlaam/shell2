@@ -1,0 +1,308 @@
+mk dir
+mk dir team5
+mkdir team5
+cd team5
+git innit https://github.com/rbarlaam/Team5
+git init https://github.com/rbarlaam/Team5
+git config --global user.name "Ramon B"
+git config --global user-email "ramonbarlamfernandez@gmail.com"
+git config --global user.email "ramonbarlamfernandez@gmail.com"
+git status
+git init https://github.com/rbarlaam/Team5
+cd https:
+git status
+cat .git/config
+cd
+cat .gitconfig
+cd team5
+git init
+git remote add origin https://github.com/rbarlaam/Team5
+git branch -M master
+git branch -M main
+git status
+git branch -m "first commit"
+git commit -m "first commit"
+git branch -M main
+git branch -M master
+git push -u origin main
+git pull
+ls
+cd https:
+ls
+cd github.com
+ls
+cd rbarlaam
+ls
+cd Team5
+ls
+git pull
+git status
+close
+exit
+git status
+git remote add origin https://github.com/rbarlaam/Team5
+git status
+mkdir team5
+cd team5
+git statua
+git status
+git remote add origin https://github.com/rbarlaam/Team5
+git init
+git remote add origin https://github.com/rbarlaam/Team5
+git pull
+git checkout master
+git statu
+git status
+cd
+cd team5
+git pull
+ls
+cd
+cd team5
+git checkout f226c25
+cd
+cd team5
+git checkout test
+ls
+git checkout master
+touch prueba.txt
+ls
+git add prueba.txt
+git push prueba.txt
+ls
+rm prueba.txt
+cd
+mkdir master
+cd master
+git init
+cd master
+mkdir master
+cd master
+git remote add origin https://github.com/rbarlaam/shell
+git init
+git remote add origin https://github.com/rbarlaam/shell
+ls
+cd
+cat .gitconfig
+cat .history
+pwd
+whoami
+git status
+clean
+exit
+git
+cat .gitconfig
+cd --
+cd ..
+cd
+mkdir git
+cd git
+git status
+echo "# shell2" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/rbarlaam/shell2.git
+git push -u origin master
+git status
+touch history 20201119.txt
+git push origin master
+ls
+git commit -m "historial 20201117"
+git commit -m "historial_20201117.txt"
+git status
+cd
+ls
+cd git
+git status
+git push origin master
+ls
+rm history
+rm 20201119.txt
+touch history_20201119.txt
+git push history_20201119.txt
+git status
+git push origin master
+rm history_20201119.txt
+touch history_20201117.txt
+git add history_20201117.txt
+git commit -m "historial 20201117"
+git push origin master
+cd
+cd team5
+gi status
+git status
+ls
+touch prueba2.txt
+git add origin master
+git push origin master
+ls
+git commit -m "prueba 2"
+git touch prueba2.txt
+git push origin master
+git status
+cd
+cd team5
+git pull
+ls
+git add prueba2.txt
+git status
+man history
+rm prueba2.txt
+ls
+git pull
+ls
+git push origin master
+git what
+git commit -m "pruebas varias"
+git touch prueba3.txt
+touch prueba3.txt
+git push origin master
+git add git status
+git push origin master
+ls
+rm prueba3.txt
+cd
+cd git
+cp ~/.history history_20201117.txt
+git add
+git commit -m "historial 19 nov"
+ls
+git push origin master
+git status
+git add history_20201117.txt"\
+\
+
+git add history_20201117.txt
+git push origin master
+git status
+gist reset HEAD history_20201117.txt
+cp $HISTFILE ~/git/history_20201117.txt
+cd git
+git commit -m "historial hoy"
+git push origin master
+cd
+cd git
+cd
+cd mas
+cd git
+git pull
+rm history_20201117.txt
+git status
+git push origin master
+cd
+cd Data/tea
+c
+cd
+cd team5
+ls
+cd
+cd git
+ls
+git pull
+ls
+git push origin master
+ls
+git status
+git rm history_20201117.txt
+git commit -m "hola"
+git push origin master
+cd
+cd team5
+git status
+git rm prueba.txt
+git rm prueba2.txt
+git push origin master
+ls
+git commit -m
+git commit -m "hola"
+git push origin master
+cd
+cd team5
+git branch
+git checkout test
+ls
+cd
+cd Data/shell
+ls
+wc Finn.txt
+man bash
+man ls
+less man
+man less
+less Finn.txt
+which ls
+which python
+sudo which python
+whereis Finn.txt
+whereis
+whereis --help
+tail Finn.txt
+tail -4 Finn.txt
+wc Finn.txt
+wc -c Finn.txt
+wc -w Finn.txt
+wc -m Finn.txt
+cw -l Finn.txt
+wc -l Finn.txt
+ls
+cd..
+cd
+echo "How much line/words/letters do I have" | wc
+cd Data/shell
+cat Text_example.txt
+cat Finn.txt
+cat Text_example.txt | wc
+cat Text_example.txt | wc -l
+cd
+echo -n "Hello" > hello-world
+cat hello-world
+echo "World" >> hello-world
+cat hello-world
+cd
+cd Data/opentraveldata
+tail -3 optd_aircraft.csv > last_3_aircraft_lines.txt
+cat last_3_aircraft_lines.txt
+ls
+ls -l
+ls -linrstu
+ls -l
+ls -s
+ls -ls
+ls -S
+ls -Ss
+ls -sS
+ls -lSR
+ls -lSr
+ls -lS
+ls -lS -1
+ls -lS -n 1
+ls -lS -n1
+wc -n 1
+wc
+ls -lS > Moresize.txt
+ls
+cat Moresize.txt
+cd git
+folder = "ref_repo"
+lrst
+ls
+ls -lrtS
+ls -lrtS ~/Data/opentraveldata | tail -n 1 > 001.out
+ls
+cat 001.out
+echo "ls -lrtS ~/Data/opentraveldata  | tail -n 1" > 001.sh
+cat 001.sh
+git commit -m "Ejercicios por grupos hechos por mi"
+git add 001.sh
+git add 001.out
+git push master
+git push origin master
+ls
+git status
+git push origin master
+pull
+git pull
+ls
+cp $HISTFILE ~/git/history_20201122.txt
